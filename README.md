@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=Z4sYZrKuL_E
 Understanding the LZ77 compression algorithm - Presentation
 https://www.youtube.com/watch?v=-V48ZygMUtg
 
+## Un projet de jeux d'échec est également en cours de finition
+
+https://github.com/Fluffy918/ProjetALgoEchec
+
 
 # 🙇 Auteurs
 
